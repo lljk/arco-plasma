@@ -23,16 +23,16 @@ sudo pacman -S --noconfirm --needed catfish
 sudo pacman -S --noconfirm --needed cronie
 #sudo pacman -S --noconfirm --needed galculator
 #sudo pacman -S --noconfirm --needed gnome-screenshot
-sudo pacman -S --noconfirm --needed plank
+#sudo pacman -S --noconfirm --needed plank
 #sudo pacman -S --noconfirm --needed xfburn
-sudo pacman -S --noconfirm --needed variety
+#sudo pacman -S --noconfirm --needed variety
 #sudo pacman -S --noconfirm --needed
 
 
 echo "Installing category Development"
 
-sudo pacman -S --noconfirm --needed atom
-sudo pacman -S --noconfirm --needed geany
+#sudo pacman -S --noconfirm --needed atom
+#sudo pacman -S --noconfirm --needed geany
 sudo pacman -S --noconfirm --needed meld
 #sudo pacman -S --noconfirm --needed
 
@@ -51,18 +51,18 @@ sudo pacman -S --noconfirm --needed gimp
 #sudo pacman -S --noconfirm --needed gnome-font-viewer
 #sudo pacman -S --noconfirm --needed gpick
 sudo pacman -S --noconfirm --needed inkscape
-sudo pacman -S --noconfirm --needed nomacs
+#sudo pacman -S --noconfirm --needed nomacs
 #sudo pacman -S --noconfirm --needed pinta
 #sudo pacman -S --noconfirm --needed ristretto
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Internet"
 
-sudo pacman -S --noconfirm --needed chromium
+#sudo pacman -S --noconfirm --needed chromium
 #sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
 #sudo pacman -S --noconfirm --needed hexchat
-sudo pacman -S --noconfirm --needed qbittorrent
+#sudo pacman -S --noconfirm --needed qbittorrent
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Multimedia"
@@ -71,9 +71,9 @@ echo "Installing category Multimedia"
 #sudo pacman -S --noconfirm --needed deadbeef
 #sudo pacman -S --noconfirm --needed mpv
 #sudo pacman -S --noconfirm --needed openshot
-sudo pacman -S --noconfirm --needed pragha
+#sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
-sudo pacman -S --noconfirm --needed simplescreenrecorder
+#sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
 sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
@@ -83,7 +83,7 @@ echo "Installing category Office"
 sudo pacman -S --noconfirm --needed evince
 #sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
-#sudo pacman -S --noconfirm --needed libreoffice-fresh
+sudo pacman -S --noconfirm --needed libreoffice-fresh
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Other"
@@ -127,8 +127,8 @@ sudo pacman -S --noconfirm --needed numlockx
 #sudo pacman -S --noconfirm --needed polkit-gnome
 #sudo pacman -S --noconfirm --needed qt5ct
 sudo pacman -S --noconfirm --needed sane
-sudo pacman -S --noconfirm --needed screenfetch
-sudo pacman -S --noconfirm --needed scrot
+#sudo pacman -S --noconfirm --needed screenfetch
+#sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
 #sudo pacman -S --noconfirm --needed terminator
@@ -137,7 +137,7 @@ sudo pacman -S --noconfirm --needed termite
 #sudo pacman -S --noconfirm --needed thunar-archive-plugin
 #sudo pacman -S --noconfirm --needed thunar-volman
 sudo pacman -S --noconfirm --needed ttf-ubuntu-font-family
-sudo pacman -S --noconfirm --needed ttf-droid
+#sudo pacman -S --noconfirm --needed ttf-droid
 sudo pacman -S --noconfirm --needed tumbler
 sudo pacman -S --noconfirm --needed vnstat
 sudo pacman -S --noconfirm --needed wget
